@@ -24,8 +24,8 @@ class MyClass01{
     //instance fiedld
     //인스턴스가 가져야하는 속성들  이 나열되어야 한다. class라는 설꼐도에
     int age ;
-    String name;
-    
+    String address;
+
     //instance methods
     //인스턴스가 가져하는 기능들 (메소드)
     
