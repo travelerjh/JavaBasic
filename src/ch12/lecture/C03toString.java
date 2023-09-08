@@ -8,6 +8,7 @@ public class C03toString {
 
         //out 인스턴스가 가지고 있는 인스
 
+        System.out.println(car1.getPrice());
         System.out.println(car1);
         System.out.println(car2.toString());
         System.out.println(car3.toString());
@@ -32,6 +33,7 @@ class  car{
     public int getPrice() {
         return price;
     }
+
 
 
     //투스트링의 역활
