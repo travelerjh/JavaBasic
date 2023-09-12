@@ -11,6 +11,7 @@ public class Ex {
         set.add("v");
         set.add("av");
         set.add("ase");
+        // Iterator 탐색이 특징
      Iterator<String>iterator= set.iterator();
      while(iterator.hasNext()){
          String element = iterator.next();;
