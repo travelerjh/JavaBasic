@@ -11,6 +11,7 @@ public class C01 {
 
        List<String> list=  List.of("list","set","map");
 
+       list.stream().forEach(System.out::println);
 
         for(String items: list){
             System.out.println(items);
